@@ -10,17 +10,16 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace PagePrimer_ZhitkovaE
 {
     /// <summary>
-    /// Логика взаимодействия для Page2.xaml
+    /// Логика взаимодействия для Window1.xaml
     /// </summary>
-    public partial class Page2 : Page
+    public partial class Window1 : Window
     {
-        public Page2()
+        public Window1()
         {
             InitializeComponent();
         }
